@@ -1,2 +1,5 @@
 SYSU-MM01
 ruff.toml
+SYSU-processed
+test.py
+__pycache__

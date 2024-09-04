@@ -1,0 +1,3 @@
+# SUYU预处理
+SUYU_DIR = 'REID\SYSU-MM01'
+OUTPUT_DIR = 'REID\SYSU-processed'
